@@ -1,0 +1,3 @@
+include ':app', ':mytest', ':OA', ':guanlinsystem', ':PagerSlidingTabStrip_library', ':PagerSlidingTabStrip', ':android-common_demo', ':gnucash-android', ':FlycoTabLayout_demo', ':FlycoTabLayout_Lib'
+project(':FlycoTabLayout_demo').projectDir = new File('FlycoTabLayout/app')
+project(':FlycoTabLayout_Lib').projectDir = new File('FlycoTabLayout/FlycoTabLayout_Lib')

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FlycoTabLayout/FlycoTabLayout_Lib" />
+            <option value="$PROJECT_DIR$/FlycoTabLayout/app" />
+            <option value="$PROJECT_DIR$/OA" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip_library" />
+            <option value="$PROJECT_DIR$/android-common_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gnucash-android" />
+            <option value="$PROJECT_DIR$/guanlinsystem" />
+            <option value="$PROJECT_DIR$/mytest" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FlycoTabLayout/FlycoTabLayout_Lib" />
+            <option value="$PROJECT_DIR$/FlycoTabLayout/app" />
+            <option value="$PROJECT_DIR$/OA" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip_library" />
+            <option value="$PROJECT_DIR$/android-common_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gnucash-android" />
+            <option value="$PROJECT_DIR$/guanlinsystem" />
+            <option value="$PROJECT_DIR$/mytest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlycoTabLayout/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" filepath="$PROJECT_DIR$/FlycoTabLayout/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlycoTabLayout/app/FlycoTabLayout_demo.iml" filepath="$PROJECT_DIR$/FlycoTabLayout/app/FlycoTabLayout_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAs.iml" filepath="$PROJECT_DIR$/HelloAs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OA/OA.iml" filepath="$PROJECT_DIR$/OA/OA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip_library/PagerSlidingTabStrip_library.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip_library/PagerSlidingTabStrip_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-common_demo/android-common_demo.iml" filepath="$PROJECT_DIR$/android-common_demo/android-common_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gnucash-android/gnucash-android.iml" filepath="$PROJECT_DIR$/gnucash-android/gnucash-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guanlinsystem/guanlinsystem.iml" filepath="$PROJECT_DIR$/guanlinsystem/guanlinsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+    </modules>
+  </component>
+</project>

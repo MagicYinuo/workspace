@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="4dp">
+    <!--日期-->
+    <include layout="@layout/hourly_up"></include>
+    <!--气压温度-->
+    <include layout="@layout/hourly_down"></include>
+    <!--风力风向-->
+    <include layout="@layout/hourly_wind" />
+</LinearLayout>

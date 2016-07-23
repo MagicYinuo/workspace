@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workplace\\HelloAs\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tabs.xml",
+        "source": "D:\\workplace\\HelloAs\\sample\\res\\drawable\\background_tabs.xml"
+    },
+    {
+        "merged": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tabs.xml",
+        "source": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\res\\drawable\\background_tabs.xml"
+    },
+    {
+        "merged": "D:\\workplace\\HelloAs\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tabs_diagonal.xml",
+        "source": "D:\\workplace\\HelloAs\\sample\\res\\drawable\\background_tabs_diagonal.xml"
+    },
+    {
+        "merged": "D:\\workplace\\HelloAs\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\workplace\\HelloAs\\sample\\build\\intermediates\\exploded-aar\\HelloAs\\library\\unspecified\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tabs_diagonal.xml",
+        "source": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\res\\drawable\\background_tabs_diagonal.xml"
+    },
+    {
+        "merged": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\workplace\\HelloAs\\PagerSlidingTabStrip\\build\\intermediates\\exploded-aar\\HelloAs\\PagerSlidingTabStrip_library\\unspecified\\res\\drawable\\background_tab.xml"
+    }
+]
